@@ -1,0 +1,13 @@
+fastclick.com
+fastclick.net
+media.fastclick.net
+cdn.fastclick.net
+
+hotjar.com
+static.hotjar.com
+api-hotjar.com
+hotjar-anaylitics.com
+
+analytics.tiktok.com
+ads.tiktok.com
+
